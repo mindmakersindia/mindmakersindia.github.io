@@ -7665,13 +7665,13 @@ section .box-img-info-container .col-xs-12 .box-img-info .project-detail span,se
 #contact {
     text-align: center;
     padding-bottom: 110px;
-    background: url("../img/footer_bg.png") center no-repeat;
-    background-color: #373A4A;
+    
+    background-color: rgba(119, 152, 206, 0.69);
     background-size: 100% auto
 }
 
 #contact h2.section-title {
-    color: #fff;
+    color: #3d466d;
     margin-bottom: 20px
 }
 
@@ -7679,8 +7679,7 @@ section .box-img-info-container .col-xs-12 .box-img-info .project-detail span,se
     display: block;
     max-width: none;
     text-align: center;
-    font-style: italic;
-    color: #AAAABE;
+    color: #3d466d;
     margin-bottom: 40px
 }
 
