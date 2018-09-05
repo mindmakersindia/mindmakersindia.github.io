@@ -9031,13 +9031,6 @@ section.design-detail .overview-img img {
         font-weight: 700;
 }
 
-#header1 {
-    padding-bottom: 216px;
-    background-color: #FCFCFC;
-    background-position: center top;
-    background-repeat: no-repeat;
-    padding-top: 79px
-}
 @media screen {
 
   #page-404 {
